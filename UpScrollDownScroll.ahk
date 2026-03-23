@@ -1,9 +1,7 @@
-; ╭──────────────────────────────────────╮
-; │ UpScrollDownScroll.ahk on FKeyFnKey  │
-; │ Nercone <nercone@diamondgotcat.net>  │
-; │ Made by Nercone / MIT License        │
-; │ Copyright (c) 2025 DiamondGotCat     │
-; ╰──────────────────────────────────────╯
+; UpScrollDownScroll.ahk on FKeyFnKey
+; Nercone <nercone@nercone.dev>
+; Made by Nercone / MIT License
+; Copyright (c) 2025 Nercone
 
 WheelUp::Send "{WheelDown}"
 WheelDown::Send "{WheelUp}"

@@ -1,9 +1,7 @@
-﻿; ╭──────────────────────────────────────╮
-; │ FKeyFnKey.ahk on FKeyFnKey           │
-; │ Nercone <nercone@diamondgotcat.net>  │
-; │ Made by Nercone / MIT License        │
-; │ Copyright (c) 2025 DiamondGotCat     │
-; ╰──────────────────────────────────────╯
+﻿; FKeyFnKey.ahk on FKeyFnKey
+; Nercone <nercone@nercone.dev>
+; Made by Nercone / MIT License
+; Copyright (c) 2025 Nercone
 
 F1::  Return                    ; 割り当てなし
 F2::  Return                    ; 割り当てなし

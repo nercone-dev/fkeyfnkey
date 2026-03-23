@@ -1,9 +1,7 @@
-; ╭──────────────────────────────────────╮
-; │ WinKeyCtrlKey.ahk on FKeyFnKey       │
-; │ Nercone <nercone@diamondgotcat.net>  │
-; │ Made by Nercone / MIT License        │
-; │ Copyright (c) 2025 DiamondGotCat     │
-; ╰──────────────────────────────────────╯
+; WinKeyCtrlKey.ahk on FKeyFnKey
+; Nercone <nercone@nercone.dev>
+; Made by Nercone / MIT License
+; Copyright (c) 2025 Nercone
 
 $#c::  Send "^c"
 $#v::  Send "^v"
